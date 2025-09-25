@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ValidacionEntradaPagoBruto {
     public static void main(String[] args) {
 
-        int horas = 48;
+        int horas = 1000;
         int pagoxh = 15;
         Scanner scanner = new Scanner(System.in);
 

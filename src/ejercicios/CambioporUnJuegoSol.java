@@ -13,7 +13,7 @@ public class CambioporUnJuegoSol {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Bienvenido 'cambio por un sol' :" +
-                        "Su meta es  ingresar suficiente cambuio para hacer exactamente s/1.00");
+                        "Su meta es  ingresar suficiente cambio para hacer exactamente s/1.00");
 
                 System.out.println("Ingrese sus monedas de un centimo  :");
         int numMonedasUnCentimo = scanner.nextInt();
